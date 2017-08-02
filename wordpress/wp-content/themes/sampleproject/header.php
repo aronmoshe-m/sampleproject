@@ -19,7 +19,7 @@
 
 	<?php wp_head(); ?>
 	<!-- testing commit and pull knowledge -->
-    <!-- and add in something locally, too -->
+    <!-- and add in something locally, too, and commit them to the repo -->
 </head>
 
 <body <?php body_class(); ?>>

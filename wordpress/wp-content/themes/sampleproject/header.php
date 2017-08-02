@@ -18,7 +18,8 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 
 	<?php wp_head(); ?>
-	<!-- testing commit and pull knowledge --> 
+	<!-- testing commit and pull knowledge -->
+    <!-- and add in something locally, too -->
 </head>
 
 <body <?php body_class(); ?>>
